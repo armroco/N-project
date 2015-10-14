@@ -1,1 +1,1 @@
-### This is Armanda's N-project repo.
+### This is Armanda's N-project repository.
